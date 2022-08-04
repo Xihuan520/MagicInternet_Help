@@ -2,11 +2,9 @@
 
 ## 1.下载Clash
 
-GitHub：https://github.com/Fndroid/clash_for_windows_pkg/releases
+Clash for Windows：https://github.com/Fndroid/clash_for_windows_pkg/releases
 
-蓝奏云：[cfw(CN)-win_v0.19.17.7z - 蓝奏云 (lanzouf.com)](https://ldqs365.lanzouf.com/ioQvN04om3ze)
-
-安卓版：[cfa-Android_v2.5.8.apk - 蓝奏云 (lanzouf.com)](https://ldqs365.lanzouf.com/ixGZA03unohi)
+Clash for Android：https://github.com/Kr328/ClashForAndroid/releases
 
 
 
