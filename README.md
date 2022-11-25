@@ -16,7 +16,7 @@ Clash for Android：https://github.com/Kr328/ClashForAndroid/releases
 
 **打开后界面如下**：
 
-### 因为打了中文补丁，所以显示是中文界面。如果在github下载的，请自行搜索中文补丁！
+### 因为没打中文补丁，所以显示是英文界面。如果在github下载的，请自行搜索中文补丁！
 
 ![](https://cdn.jsdelivr.net/gh/Magic4536251/MagicInternet_Help/images/%E7%95%8C%E9%9D%A2%E5%A6%82%E4%B8%8B.png)
 
